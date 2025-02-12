@@ -1,6 +1,20 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://valuetodays.github.io/game-fsb-docs/'
 languageCode = 'zh-CN'
 title = '封神榜-文档'
 theme = 'ananke'
 hasCJKLanguage = true               # 统计汉字
 
+
+[menu]
+  [[menu.main]]
+    name = "文章"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "下载"
+    url = "/download"
+    weight = 3
+  [[menu.main]]
+    name = "关于"
+    url = "/about"
+    weight = 4
