@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-CN'
+title = '封神榜-文档'
+theme = 'ananke'
+hasCJKLanguage = true               # 统计汉字
+
