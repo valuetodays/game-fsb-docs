@@ -1,4 +1,4 @@
-baseURL = 'https://valuetodays.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'zh-CN'
 title = '封神榜-文档'
 theme = 'ananke'
