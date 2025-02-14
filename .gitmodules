@@ -1,3 +1,6 @@
 [submodule "docs/themes/relearn"]
 	path = docs/themes/relearn
 	url = git@github.com:McShelby/hugo-theme-relearn.git
+[submodule "docs/themes/ananke"]
+	path = docs/themes/ananke
+	url = git@github.com:theNewDynamic/gohugo-theme-ananke.git
