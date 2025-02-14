@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 # https://valuetodays.github.io/game-fsb-docs/
 languageCode = 'zh-CN'
 title = '封神榜-文档'
-theme = 'ananke'
+theme = 'relearn'
 hasCJKLanguage = true               # 统计汉字
 
 staticDir = ['static', 'static2']
